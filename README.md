@@ -4,7 +4,7 @@
 
 
 
-### Introduction
+### Preface
 
 Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-alterantive financial system is fundamentally flawed: It violates Shariah and delivers no economic benefit in spirit of the original prohibition.
 
