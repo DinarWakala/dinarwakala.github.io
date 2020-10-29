@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Wakala Network - A Gold Based Alternative Financial System
+
+### Table of Contents
+
+
+
+### Introduction
+
+Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-alterantive financial system is fundamentally flawed: It violates Shariah and delivers no economic benefit in spirit of the original prohibition.
 
 You can use the [editor on GitHub](https://github.com/DinarWakala/dinarwakala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
