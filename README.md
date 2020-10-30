@@ -19,23 +19,23 @@ This project is an open source community effort, led by a group of volunteers an
 
 ### Introduction
 
-The purpose of this project is to develop a working, alternative, Islamic financial system, that faithfully follows the spirit and law of the Islamic Shariah and is prohibition of Riba.  It intends to achieve this in following ways: 
+The purpose of this project is to develop a framework for an alternative, Islamic financial system, that faithfully follows the spirit and law of the Islamic Shariah and its prohibition of Riba.  This open source framework consists of following artifacts, which will be developed by volunteers and made available to everyone.
 
-1. Developa  
-to Islamic Banking, but : model of independent, financial institutions, with gold-based banking-like institutions operating in a cooperating network of transmission, much like the older Hawala system.
+1. A non-profit foundation operating a Hawala network using Blockchain technology, to act as an alternative to some of the Halal subset of services offered by central banks.
 
-The idea behind Dinar Wakala was to promote sound money in the American Muslim community, and introduce them to the concepts of Riba and Islamic economic system. 
+2. The legal framework, model contracts and operational model for independent for-profit Wakalas: financial instititions that act as alterantive to Islamic Banks, offering safekeeping of Dinars and Dirhams, and participating in the Hawala network for their transfer and settlement.
 
-This project is the 
-introduce a Gold-Backed banking-like institution in the country. The idea behind eGold is to demonstrate to the world how such a system can operate and still be profitable, while complying with the three guiding tenets of fully Shariah-Compliance. These were:
-Commodity-backed (gold and silver)
-Riba-Free transactions
-Gharar-free operation (Full reserve)
-Apart from the above “publically stated-objective” of establishing a model Islamic financial institution, there are a number of additional benefits that constitute part of the long term vision of this project. These are follows:
+3. Software artifacts to operate the Blockchain network.
 
-Conformity with Shariah
+### Goals
 
-The guiding principle behind this whole endeavor is to establish an institution that is in complete conformity with the Islamic Shariah, on “both sides of the balance sheet”, and not just its customer facing operations as is the case with present day Islamic Banks. The reason why prevalent Islamic banking is un-Islamic and why gold-backed system is a necessity for true riba-free operations is explained in detail in our document on Riba. http://www.egold.pk/education/riba.aspx
+1. Develop intellectual capital for implementation of true Islamic financial institutions: A job that organizations like Islamic Ideology Council, AAOIFI, and State Bank of Pakistan are supposed to do but are failing badly at it.
+
+2. Demonstrate to the world how such a system can practically operate and still be profitable, while complying with the three guiding tenets of fully Shariah-Compliance.
+
+3. Providing lower and middle class families the ability to offset the impact of inflation by leveraging sound money as a hedge against inflation.
+
+The guiding principle behind this whole endeavor is to establish an institution that is in complete conformity with the Islamic Shariah, on “both sides of the balance sheet”, and not just its customer facing operations as is the case with present day Islamic Banks.
 
 Political and Financial Strength
  It is beyond doubt that true power and strength lies in the control of money, thus, indirectly in the control of human and financial resources. Politics as well as Geo-Politics, is all ultimately a game of who controls how many resources. The western powers encircling us politically is primarily to control our natural resources like oil, and their financial system is geared towards “shortchanging” our currencies and economic output, and keep us in a state of debt and inflation. 
