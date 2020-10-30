@@ -14,7 +14,8 @@ Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to intro
 
 ### About Us
 
-This project is being developed on open source principles as a community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. The primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private for-profit company registered in the great state of Texas. Dinar Wakala is the producer of the very first Islamic Gold Dinar in the American Continents. Other notables coins produced and sold by us include the silver 10 Dirham honoring the famous civil rights leader, Malcolm X. 
+This is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. The primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private for-profit company registered in the great state of Texas. 
+
 
 The purpose of this project is to develop a framework for developing an alternative financial system, with gold-based banking-like institutions operating in a cooperating network of transmission, much like the older Hawala system.
 
@@ -65,4 +66,6 @@ Syntax highlighted code block
 
 ## Footnotes
 
-- [¹] We prefer to use the phrase interest-avoiding instead of interest-free. The later was a poor translation choice in earlier literature, which instills the notion that loans in Islam ought to be interest-free, which is not the case. Islam recognizes the time-value of money, and proposes investment-based profit and loss sharing strategies for the business domain. It is true that interest-free loans, Qard-e-Hasan, are mentioned and extolled in Islamic literature, but that is in context of a private act of charity and piety, and not as a business requirement for a financial intermediary.
+- ¹ We prefer to use the phrase interest-avoiding instead of interest-free. The later was a poor translation choice in earlier literature, which instills the notion that loans in Islam ought to be interest-free, which is not the case. Islam recognizes the time-value of money, and proposes investment-based profit and loss sharing strategies for the business domain. It is true that interest-free loans, Qard-e-Hasan, are mentioned and extolled in Islamic literature, but that is in context of a private act of charity and piety, and not as a business requirement for a financial intermediary.
+
+- ² [Dinar Wakala](http://www.dinarwakala.com) is the producer of the very first Islamic Gold Dinar in the American Continent. Other notables coins produced and sold by it include the silver 10 Dirham honoring the famous civil rights leader, Malcolm X.
