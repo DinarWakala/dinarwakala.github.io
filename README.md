@@ -1,4 +1,4 @@
-## Wakala Network - A Gold Based Alternative Financial System
+## The Wakala Network Project - A Gold Based Alternative Financial System
 
 
 ### Table of Contents
@@ -18,19 +18,21 @@ Islam prohibits interest and usury (Q:3:129), also known as Riba. Islamic Bankin
 
 This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private company registered in the great state of Texas. The relationship of the for-profit Dinar with this project is explained in the disclaimer section.
 
+
 ### 3. Introduction
 
 The purpose of this project is to develop a framework for an alternative, Islamic financial system, that faithfully follows the spirit and law of the Islamic Shariah and its prohibition of Riba.  This open source framework consists of following artifacts, which will be developed by volunteers and made available to everyone.
 
-1. A non-profit foundation operating a Hawala network using Blockchain technology, to act as an alternative to some of the Halal subset of services offered by central banks.
+1. Establishment of the Master Wakala, non-profit organization which will operate coordinate and oversee the operation of the individual Wakalas, and provide central clearing facilities much like an alternative to some Halal subset of central bank services.
 
-2. The legal framework, model contracts and operational model for independent for-profit Wakalas: financial instititions that act as alterantive to Islamic Banks, offering safekeeping of Dinars and Dirhams, and participating in the Hawala network for their transfer and settlement.
+2. Development of the legal framework, model contracts and operational model for independent for-profit Wakalas. These will act as alternative to Banks: Model financial instititions that offer safekeeping of Dinars and Dirhams, and participate in the Wakala Network for their transfer and settlement. Other financial intermediation services can also be offered by these institutions.
 
-3. Software artifacts to operate the Blockchain network.
+3. Development of software artifacts, to operate the individual Wakalas and the Master Wakala, using blockchain and cloud technology.
 
-### 4. Goals
 
-1. Practical Solutions: Develop intellectual capital for implementation of true Islamic financial institutions: A job that organizations like Islamic Ideology Council, AAOIFI, and State Bank of Pakistan are supposed to do but are failing badly at it.
+### 4. Goals of the Wakala Network Project
+
+1. **Model Blueprints**: The first goal of the project is Develop intellectual capital for implementation of true Islamic financial institutions: A job that organizations like Islamic Ideology Council, AAOIFI, and State Bank of Pakistan are supposed to do but are failing badly at.
 
 2. Thought Leadersihp: rge on this final one: the ultimate objective we have before us is to strengthen Pakistan and make it a model Islamic state. Out beyond the fog of imminent catastrophes, and the current political and social malaise, lies a long road ahead of human resource, infrastructure and nation building. The responsibility of introducing a gold-backed truly Islamic economic model in our country would ultimately fall upon us, and its long term planning and implementation on the right footings, must have started as of yesterday! Or at least today! eGold will gradually transform itself into a publicly owned entity managed by visionaries who share this common objective, and slowly evolve a financial enterprise that is a role model for other Islamic initiatives that “truly” want to be Shariah compliant.
 
@@ -40,22 +42,17 @@ The purpose of this project is to develop a framework for an alternative, Islami
 4. Allow the foundation and this project to become a platform for people to congregate on and exert political influence for lasting changes in the country's legal and financial system. By using the "bank account" as a much more powerful instrument of public franchise, than the ballot, we can grow this alternative system to enough economic significane that it can negotiate Islamic reforms in an effective way. If enough patriotic people start subscribing to the financial services offered by this project, it can gradually grow into a behemoth of morally-upright corporate power which establishes itself as the de facto voice to be reckoned with in terms of weight in financial decision making.
 
 
+### 5. About the Gold Dinar Movement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Gold Dinar Movement is decentralized, global movement advocating the the re-introduction of the Islamic Gold Dinar and Silver Dirham as the currency in the Muslim world, in view of their importance and Shariah, and being historically viable basis of Shariah-mandated sound money based currency system.
 
-```markdown
-Syntax highlighted code block
+It has proponents all over the world, and have been working on multiple fronts, including attempts to:
 
-- Bulleted
-- List
+a) Persuade governments to adopt principles of Islamic trade, and change prevailing monetary systems in their respective countries.
+b) Educate the masses to adopt Islamic Trade, either symbolically by sale of coins or realistically by trading with coins
+c) Depose contemporary Islamic financial jurisprudence, by developing alterantive literature that is more faithful to Islamic principles, by way of publishing books, articles and research papers.
+d) Establish Mints and Financial institutions that can model the true endstate of an Islamic economic system. This current Wakala Network project is part of this effort.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ## Footnotes
 
