@@ -42,6 +42,19 @@ The purpose of this project is to develop a framework for an alternative, Islami
 
 3. Individual users will subscribe to the Wakalas, just like they open an account in the Bank.
 
+The Wakalas will earn revenue in following ways:
+
+1. __Sale of bullion:__ Profits will accrue either through a premium, or else by price appreciation over time. Wakalas can obtain coins at discounted rate from Master Wakala, or else have them minted or obtained through third-party sources.
+
+2. __Storage Services:__ Wakalas can charge either a flat rate, or else a percentage of amounts stored. Unlike traditional banking, we do not engage in fractional reserve and so costs of storing the metal will have to be charged to the customers.
+
+3. __Money Transfer Services:__ Wakalas can charge a fee for the service of money transfer, for payments and settlements.
+
+4. __Delivery handling:__ For people wanting to take physical possession of their stored metal, Wakalas can charge delivery fees.
+
+5. __Value Added Services:__ Wakalas can offer regular financial services including intermediation, and facilitation of Musharika and Modaraba investments.
+
+
 ```
 +---------------------------------+
 |         Master Wakala           |
@@ -73,37 +86,21 @@ The purpose of this project is to develop a framework for an alternative, Islami
 
 Below are ways in which you can participate in this project. For either of them, currently the best way is to send a message to info@dinarwakala.com or leave me a message on facebook: https://www.facebook.com/asifshiraz or whats app +923155199790.
 
-### Serve in the core team of the Master Wakala
+__6.1 Serve in the core team of the Master Wakala:__ We need trust-worthy people to operate the master Wakala, and oversee its operations.
 
-We need trust-worthy people to operate the master Wakala, and oversee its operations.
+__6.2 Donate Money:__ We will need money at every step of the way. This will be used in a completely transparent manner, with full reporting available of where the funds went. However, please note that while we will use the money in a transparent and non-profit cause, we ourselves are not yet a registered non-profit foundation.
 
-### Donate Money
+__6.3 Buy Gold Dinars and Silver Dirhams:__ This is a win-win for everybody. Your money gets converted to Gold and Silver Dirhams, (albeit at a lower rate than market). However, you do not loose your money, and still get the benefit of advancing a good cause by promoting this project, and expanding its subscriber base.
 
-We will need money at every step of the way. This will be used in a completely transparent manner, with full reporting available of where the funds went. However, please note that while we will use the money in a transparent and non-profit cause, we ourselves are not yet a registered non-profit foundation.
+__6.4 Operate a full Wakala:__ You can open a Wakala and become a seller of Gold Dinars and Silver Dirhams, and start providing safekeeping services of the money (e.g. by purchasing a locker from a local Bank and saving your family and friend's accounts there).
 
-### Buy Gold Dinars and Silver Dirhams
+__6.5 Operate a Sale-only Wakala:__ You can also just become a reseller of Gold Dinars and Silver Dirhams, without opening a full fledged Wakala.
 
-This is a win-win for everybody. Your money gets converted to Gold and Silver Dirhams, (albeit at a lower rate than market). However, you do not loose your money, and still get the benefit of advancing a good cause by promoting this project, and expanding its subscriber base.
+__6.6 Just spread the word:__ Just let your friends and family know about this project, and if not you, maybe one of them will be ready and willing to participate in it.
 
-### Operate a full Wakala
+__6.7 Contribute Knowledge:__ If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website.
 
-You can open a Wakala and become a seller of Gold Dinars and Silver Dirhams, and start providing safekeeping services of the money (e.g. by purchasing a locker from a local Bank and saving your family and friend's accounts there).
-
-### Operate a Sale-only Wakala
-
-You can also just become a reseller of Gold Dinars and Silver Dirhams, without opening a full fledged Wakala.
-
-### Just spread the word
-
-Just let your friends and family know about this project, and if not you, maybe one of them will be ready and willing to participate in it.
-
-### Contribute Knowledge
-
-If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website.
-
-### Contribute Software Skills
-
-If you possess software development expertise, you can contribute in developing the block chain software related components of this project.
+__6.8 Contribute Software Skills:__ If you possess software development expertise, you can contribute in developing the block chain software related components of this project.
 
 
 ## 7. Footnotes
