@@ -13,7 +13,7 @@
 
 ### 1. Preface
 
-Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It [violates Shariah principles](case-agaisnt-banks.md), and delivers no economic benefit in spirit of the original prohibition.
+Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It [violates Shariah principles](case-against-banks.md), and delivers no economic benefit in spirit of the original prohibition.
 
 
 ### 2. About Us
