@@ -13,12 +13,12 @@
 
 ### 1. Preface
 
-Islam prohibits interest and usury (Q:3:129), also known as Riba. Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It directly violates Shariah principles, and delivers no economic benefit in spirit of the original prohibition.
+Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It [violates Shariah principles](Case-Agaisnt-Banks), and delivers no economic benefit in spirit of the original prohibition.
 
 
 ### 2. About Us
 
-This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private company registered in the great state of Texas. The relationship of the for-profit Dinar with this project is explained in the disclaimer section.
+This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC., a private company registered in the great state of Texas. The relationship of the for-profit Dinar with this project is explained in the disclaimer section.
 
 
 ### 3. Introduction
