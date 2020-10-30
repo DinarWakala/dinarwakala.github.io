@@ -61,17 +61,6 @@ The purpose of this project is to develop a framework for an alternative, Islami
 4. **Foundation for bigger changes**: Allow the foundation and this project to become a platform for people to congregate on and exert political influence for lasting changes in the country's legal and financial system. With the "bank account" being a stronger instrument of public franchise than the ballot, if enough likeminded people start subscribing to the financial services offered by this project, it can gradually grow into a behemoth of morally-upright corporate power which establishes itself as the de facto voice to be reckoned with in terms of weight in financial decision making, and steering the country's direction towards a more just and true Islamic economic foundation.
 
 
-### 5. About the Gold Dinar Movement
-
-The Gold Dinar Movement is decentralized, global movement advocating the the re-introduction of the Islamic Gold Dinar and Silver Dirham as the currency in the Muslim world, in view of their importance and Shariah, and being historically viable basis of Shariah-mandated sound money based currency system.
-
-It has proponents all over the world, and have been working on multiple fronts, including attempts to:
-
-a) Persuade governments to adopt principles of Islamic trade, and change prevailing monetary systems in their respective countries.
-b) Educate the masses to adopt Islamic Trade, either symbolically by sale of coins or realistically by trading with coins
-c) Depose contemporary Islamic financial jurisprudence, by developing alterantive literature that is more faithful to Islamic principles, by way of publishing books, articles and research papers.
-d) Establish Mints and Financial institutions that can model the true endstate of an Islamic economic system. This current Wakala Network project is part of this effort.
-
 ### 6. How it works
 
 Since we cannot wait forever for the government to act, our vision is basically to introduce an industry driven collective initiative which can provide all the services that modern day businesses require. We will not delve into the details of each and every service we offer, as financial services sector keeps changing and new products keep getting added. Our basic point is to illustrate that by hiring appropriate industry experts, we will work to provide the full suite of services similar to present day banking, but under an alternative gold-backed arrangement.
