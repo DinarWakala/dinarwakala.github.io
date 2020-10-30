@@ -6,10 +6,10 @@
 1. Preface
 2. About Us
 3. Introduction
-4. Goals of the Wakala Network Project
-5. About the Gold Dinar Movement
-6. How it works
-7. Disclaimer
+4. How it works
+5. Goals of the Wakala Network Project
+6. How can you participate
+7. Footnotes
 
 ### 1. Preface
 
@@ -31,7 +31,16 @@ The purpose of this project is to develop a framework for an alternative, Islami
 
 3. Development of software artifacts, to operate the individual Wakalas and the Master Wakala, using blockchain and cloud technology.
 
+4. Minting and provisioning of Gold Dinars, Silver Dirhams, and other precious and non-precious metal coins, and notes, that can constitute the currency of the new system. 
+
+
 ### 4. How it works
+
+1. The Master Wakala will be a non-profit organization that will serve as the publically owned, trusted guarantor of individual Wakalas and oversee their operations and compliance to Shariah.
+
+2. Independent, individual Wakalas will be operated by volunteers and enterpreneurs in different cities and countries, all working together on Hawala model to enable settlement of payments, and creation of accounts for safekeeping of gold and silver.
+
+3. Individual users will subscribe to the Wakalas, just like they open an account in the Bank.
 
 ```
 +---------------------------------+
@@ -49,8 +58,7 @@ The purpose of this project is to develop a framework for an alternative, Islami
 
 ```
 
-
-### 4. Goals of the Wakala Network Project
+### 5. Goals of the Wakala Network Project
 
 1. **Governance and Operational Blueprints**: The first goal of the project is Develop intellectual capital for implementation of true Islamic financial institutions: A job that organizations like Islamic Ideology Council, AAOIFI, and State Bank of Pakistan are supposed to do but are failing badly at.
 
@@ -61,12 +69,44 @@ The purpose of this project is to develop a framework for an alternative, Islami
 4. **Foundation for bigger changes**: Allow the foundation and this project to become a platform for people to congregate on and exert political influence for lasting changes in the country's legal and financial system. With the "bank account" being a stronger instrument of public franchise than the ballot, if enough likeminded people start subscribing to the financial services offered by this project, it can gradually grow into a behemoth of morally-upright corporate power which establishes itself as the de facto voice to be reckoned with in terms of weight in financial decision making, and steering the country's direction towards a more just and true Islamic economic foundation.
 
 
-### 6. How it works
+### 6. How can you participate
 
-Since we cannot wait forever for the government to act, our vision is basically to introduce an industry driven collective initiative which can provide all the services that modern day businesses require. We will not delve into the details of each and every service we offer, as financial services sector keeps changing and new products keep getting added. Our basic point is to illustrate that by hiring appropriate industry experts, we will work to provide the full suite of services similar to present day banking, but under an alternative gold-backed arrangement.
+Below are ways in which you can participate in this project. For either of them, currently the best way is to send a message to info@dinarwakala.com or leave me a message on facebook: https://www.facebook.com/asifshiraz or whats app +923155199790.
+
+### Serve in the core team of the Master Wakala
+
+We need trust-worthy people to operate the master Wakala, and oversee its operations.
+
+### Donate Money
+
+We will need money at every step of the way. This will be used in a completely transparent manner, with full reporting available of where the funds went. However, please note that while we will use the money in a transparent and non-profit cause, we ourselves are not yet a registered non-profit foundation.
+
+### Buy Gold Dinars and Silver Dirhams
+
+This is a win-win for everybody. Your money gets converted to Gold and Silver Dirhams, (albeit at a lower rate than market). However, you do not loose your money, and still get the benefit of advancing a good cause by promoting this project, and expanding its subscriber base.
+
+### Operate a full Wakala
+
+You can open a Wakala and become a seller of Gold Dinars and Silver Dirhams, and start providing safekeeping services of the money (e.g. by purchasing a locker from a local Bank and saving your family and friend's accounts there).
+
+### Operate a Sale-only Wakala
+
+You can also just become a reseller of Gold Dinars and Silver Dirhams, without opening a full fledged Wakala.
+
+### Just spread the word
+
+Just let your friends and family know about this project, and if not you, maybe one of them will be ready and willing to participate in it.
+
+### Contribute Knowledge
+
+If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website.
+
+### Contribute Software Skills
+
+If you possess software development expertise, you can contribute in developing the block chain software related components of this project.
 
 
-## Footnotes
+## 7. Footnotes
 
 ¹ We prefer to use the phrase interest-avoiding instead of interest-free. The later was a poor translation choice in earlier literature, which instills the notion that loans in Islam ought to be interest-free, which is not the case. Islam recognizes the time-value of money, and proposes investment-based profit and loss sharing strategies for the business domain. It is true that interest-free loans, Qard-e-Hasan, are mentioned and extolled in Islamic literature, but that is in context of a private act of charity and piety, and not as a business requirement for a financial intermediary.
 
