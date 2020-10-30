@@ -98,7 +98,7 @@ __6.5 Operate a Sale-only Wakala:__ You can also just become a reseller of Gold 
 
 __6.6 Just spread the word:__ Just let your friends and family know about this project, and if not you, maybe one of them will be ready and willing to participate in it.
 
-__6.7 Contribute Knowledge:__ If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website.
+__6.7 Contribute Knowledge:__ If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website. You can open a git account and start contributing.
 
 __6.8 Contribute Software Skills:__ If you possess software development expertise, you can contribute in developing the block chain software related components of this project.
 
