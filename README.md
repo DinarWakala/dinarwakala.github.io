@@ -3,21 +3,26 @@
 
 ### Table of Contents
 
-1. [Preface](./#preface)
-2. [About Us](./@aboutus)
-3. [Disclaimer](./#disclaimer)
+1. Preface
+2. About Us
+3. Introduction
+. Disclaimer
 
 ### 1. Preface
 
-Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It directly violates Shariah principles, and delivers no economic benefit in spirit of the original prohibition.
+Islam prohibits interest and usury (Q:3:129), also known as Riba. Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It directly violates Shariah principles, and delivers no economic benefit in spirit of the original prohibition.
 
 
 ### About Us
 
-This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. The primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private company registered in the great state of Texas. The association of the for-profit Dinar Wakala with this project is explained in the disclaimer section.
+This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private company registered in the great state of Texas. The association of the for-profit Dinar Wakala with this non-profit project is explained in the disclaimer section.
 
+### Introduction
 
-The purpose of this project is to develop a framework for developing an alternative financial system, with gold-based banking-like institutions operating in a cooperating network of transmission, much like the older Hawala system.
+The purpose of this project is to develop a working, alternative, Islamic financial system, that faithfully follows the spirit and law of the Islamic Shariah and is prohibition of Riba.  It intends to achieve this in following ways: 
+
+1. Developa  
+to Islamic Banking, but : model of independent, financial institutions, with gold-based banking-like institutions operating in a cooperating network of transmission, much like the older Hawala system.
 
 The idea behind Dinar Wakala was to promote sound money in the American Muslim community, and introduce them to the concepts of Riba and Islamic economic system. 
 
