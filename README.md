@@ -6,8 +6,10 @@
 1. Preface
 2. About Us
 3. Introduction
-4. Goals
-5. Disclaimer
+4. Goals of the Wakala Network Project
+5. About the Gold Dinar Movement
+6. How it works
+7. Disclaimer
 
 ### 1. Preface
 
@@ -28,6 +30,24 @@ The purpose of this project is to develop a framework for an alternative, Islami
 2. Development of the legal framework, model contracts and operational model for independent for-profit Wakalas. These will act as alternative to Banks: Model financial instititions that offer safekeeping of Dinars and Dirhams, and participate in the Wakala Network for their transfer and settlement. Other financial intermediation services can also be offered by these institutions.
 
 3. Development of software artifacts, to operate the individual Wakalas and the Master Wakala, using blockchain and cloud technology.
+
+### 4. How it works
+
+```
++---------------------------------+
+|         Master Wakala           |
++---------------------------------+
+        |                |
+        |                |
++----------+          +----------+
+| Wakala 1 |          | Wakala 2 |
++----------+          +----------+
+  ^      ^               ^     ^
+  |      |               |     |
+  +      +               +     +
+  A      B               C     D
+
+```
 
 
 ### 4. Goals of the Wakala Network Project
@@ -51,6 +71,10 @@ a) Persuade governments to adopt principles of Islamic trade, and change prevail
 b) Educate the masses to adopt Islamic Trade, either symbolically by sale of coins or realistically by trading with coins
 c) Depose contemporary Islamic financial jurisprudence, by developing alterantive literature that is more faithful to Islamic principles, by way of publishing books, articles and research papers.
 d) Establish Mints and Financial institutions that can model the true endstate of an Islamic economic system. This current Wakala Network project is part of this effort.
+
+### 6. How it works
+
+Since we cannot wait forever for the government to act, our vision is basically to introduce an industry driven collective initiative which can provide all the services that modern day businesses require. We will not delve into the details of each and every service we offer, as financial services sector keeps changing and new products keep getting added. Our basic point is to illustrate that by hiring appropriate industry experts, we will work to provide the full suite of services similar to present day banking, but under an alternative gold-backed arrangement.
 
 
 ## Footnotes
