@@ -14,7 +14,14 @@ Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to intro
 
 ### About Us
 
-eGold is an independent organization working to introduce a Gold-Backed banking-like institution in the country. The idea behind eGold is to demonstrate to the world how such a system can operate and still be profitable, while complying with the three guiding tenets of fully Shariah-Compliance. These were:
+This project is being developed on open source principles as a community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. The primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC, a private for-profit company registered in the great state of Texas. Dinar Wakala is the producer of the very first Islamic Gold Dinar in the American Continents. Other notables coins produced and sold by us include the silver 10 Dirham honoring the famous civil rights leader, Malcolm X. 
+
+The purpose of this project is to develop a framework for developing an alternative financial system, with gold-based banking-like institutions operating in a cooperating network of transmission, much like the older Hawala system.
+
+The idea behind Dinar Wakala was to promote sound money in the American Muslim community, and introduce them to the concepts of Riba and Islamic economic system. 
+
+This project is the 
+introduce a Gold-Backed banking-like institution in the country. The idea behind eGold is to demonstrate to the world how such a system can operate and still be profitable, while complying with the three guiding tenets of fully Shariah-Compliance. These were:
 Commodity-backed (gold and silver)
 Riba-Free transactions
 Gharar-free operation (Full reserve)
@@ -25,8 +32,7 @@ Conformity with Shariah
 The guiding principle behind this whole endeavor is to establish an institution that is in complete conformity with the Islamic Shariah, on “both sides of the balance sheet”, and not just its customer facing operations as is the case with present day Islamic Banks. The reason why prevalent Islamic banking is un-Islamic and why gold-backed system is a necessity for true riba-free operations is explained in detail in our document on Riba. http://www.egold.pk/education/riba.aspx
 
 Political and Financial Strength
-
-Mayer Amschel Rothschild once said “Give me control of a nation’s money supply and I do not care who makes the laws”. It is beyond doubt that true power and strength lies in the control of money, thus, indirectly in the control of human and financial resources. Politics as well as Geo-Politics, is all ultimately a game of who controls how many resources. The western powers encircling us politically is primarily to control our natural resources like oil, and their financial system is geared towards “shortchanging” our currencies and economic output, and keep us in a state of debt and inflation. 
+ It is beyond doubt that true power and strength lies in the control of money, thus, indirectly in the control of human and financial resources. Politics as well as Geo-Politics, is all ultimately a game of who controls how many resources. The western powers encircling us politically is primarily to control our natural resources like oil, and their financial system is geared towards “shortchanging” our currencies and economic output, and keep us in a state of debt and inflation. 
 
 The power of ideology in such circumstances is that it allows a reformer to exert influence on individuals and make them to break free from the shackles of money/resource masters. This is what BrassTacks is doing as a powerful, original, ideological movement empowering the people to exert their own independent opinion and take their destiny in their own hands. eGold, on the other hand, is approaching the problem from the other side: We take the battle of the money-game into the very own turf of the money-masters of the world, and break free from them by developing our very own, independent, world-class alternative economic eco-system – or at least a first step towards it.
 
