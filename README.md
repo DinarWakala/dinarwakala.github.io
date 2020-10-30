@@ -18,7 +18,7 @@ Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to intro
 
 ### 2. About Us
 
-This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC., a private company registered in the great state of Texas. The relationship of the for-profit Dinar with this project is explained in the disclaimer section.
+This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC².
 
 
 ### 3. Introduction
@@ -70,4 +70,4 @@ Since we cannot wait forever for the government to act, our vision is basically 
 
 ¹ We prefer to use the phrase interest-avoiding instead of interest-free. The later was a poor translation choice in earlier literature, which instills the notion that loans in Islam ought to be interest-free, which is not the case. Islam recognizes the time-value of money, and proposes investment-based profit and loss sharing strategies for the business domain. It is true that interest-free loans, Qard-e-Hasan, are mentioned and extolled in Islamic literature, but that is in context of a private act of charity and piety, and not as a business requirement for a financial intermediary.
 
-² [Dinar Wakala](http://www.dinarwakala.com) is the producer of the very first Islamic Gold Dinar in the American Continent. Other notables coins produced and sold by it include the silver 10 Dirham honoring the famous civil rights leader, Malcolm X.
+² [Dinar Wakala](http://www.dinarwakala.com) is a private company registered in the great state of Texas. They are the producers of the very first Islamic Gold Dinar in the American Continent, and other notable coins including the silver 10 Dirham honoring the famous civil rights leader, Malcolm X. Dinar Wakala aspires to become one of the operating Wakalas in the proposed project, along with other independent, for-profit institutions that can together constitute the Wakala Network, as explained on this page. Mr. Asif Shiraz's instrumental role in this this project and the Master Wakala presents a conflict of interest that is currently tolerated, until more responsible and capable people are availabe to fully shoulder the work of the Master Wakala. Moreover, all contributions to the working model of the Master Wakala are documented on this page and in the public domain, hence any attempt to profiteer will be immediately apparent.
