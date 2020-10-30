@@ -1,46 +1,110 @@
-## Wakala Network - A Gold Based Alternative Financial System
+## The Wakala Network Project - A Gold Based Alternative Financial System
+
 
 ### Table of Contents
 
-one
-two
+1. Preface
+2. About Us
+3. Introduction
+4. How it works
+5. Goals of the Wakala Network Project
+6. How can you participate
+7. Footnotes
 
-### Preface
+### 1. Preface
 
-Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-alterantive financial system is fundamentally flawed: It violates Shariah and delivers no economic benefit in spirit of the original prohibition.
+Islam prohibits interest and usury (Q:3:129). Islamic Banking's attempt to introduce an interest-avoiding¹ financial system is fundamentally flawed: It [violates Shariah principles](case-against-banks.md), and delivers no economic benefit in spirit of the original prohibition.
 
-You can use the [editor on GitHub](https://github.com/DinarWakala/dinarwakala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. About Us
 
-### Markdown
+This project is an open source community effort, led by a group of volunteers and activists associated with the Gold Dinar Movement. Names of the prominent project participants will be listed here as the project progresses. Currently, the primary sponsor of the project (the author), is Muhammad Asif Shiraz, the founder of Dinar Wakala LLC².
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 3. Introduction
 
-# Header 1
-## Header 2
-### Header 3
+The purpose of this project is to develop a framework for an alternative, Islamic financial system, that faithfully follows the spirit and law of the Islamic Shariah and its prohibition of Riba.  This open source framework consists of following artifacts, which will be developed by volunteers and made available to everyone.
 
-- Bulleted
-- List
+1. Establishment of the Master Wakala, non-profit organization which will operate coordinate and oversee the operation of the individual Wakalas, and provide central clearing facilities much like an alternative to some Halal subset of central bank services.
 
-1. Numbered
-2. List
+2. Development of the legal framework, model contracts and operational model for independent for-profit Wakalas. These will act as alternative to Banks: Model financial instititions that offer safekeeping of Dinars and Dirhams, and participate in the Wakala Network for their transfer and settlement. Other financial intermediation services can also be offered by these institutions.
 
-**Bold** and _Italic_ and `Code` text
+3. Development of software artifacts, to operate the individual Wakalas and the Master Wakala, using blockchain and cloud technology.
 
-[Link](url) and ![Image](src)
+4. Minting and provisioning of Gold Dinars, Silver Dirhams, and other precious and non-precious metal coins, and notes, that can constitute the currency of the new system. 
+
+
+### 4. How it works
+
+1. The Master Wakala will be a non-profit organization that will serve as the publically owned, trusted guarantor of individual Wakalas and oversee their operations and compliance to Shariah.
+
+2. Independent, individual Wakalas will be operated by volunteers and enterpreneurs in different cities and countries, all working together on Hawala model to enable settlement of payments, and creation of accounts for safekeeping of gold and silver.
+
+3. Individual users will subscribe to the Wakalas, just like they open an account in the Bank.
+
+The Wakalas will earn revenue in following ways:
+
+1. __Sale of bullion:__ Profits will accrue either through a premium, or else by price appreciation over time. Wakalas can obtain coins at discounted rate from Master Wakala, or else have them minted or obtained through third-party sources.
+
+2. __Storage Services:__ Wakalas can charge either a flat rate, or else a percentage of amounts stored. Unlike traditional banking, we do not engage in fractional reserve and so costs of storing the metal will have to be charged to the customers.
+
+3. __Money Transfer Services:__ Wakalas can charge a fee for the service of money transfer, for payments and settlements.
+
+4. __Delivery handling:__ For people wanting to take physical possession of their stored metal, Wakalas can charge delivery fees.
+
+5. __Value Added Services:__ Wakalas can offer regular financial services including intermediation, and facilitation of Musharika and Modaraba investments.
+
+
+```
++---------------------------------+
+|         Master Wakala           |
++---------------------------------+
+        |                |
+        |                |
++----------+          +----------+
+| Wakala 1 |          | Wakala 2 |
++----------+          +----------+
+  ^      ^               ^     ^
+  |      |               |     |
+  +      +               +     +
+  A      B               C     D
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 5. Goals of the Wakala Network Project
 
-### Jekyll Themes
+1. **Governance and Operational Blueprints**: The first goal of the project is Develop intellectual capital for implementation of true Islamic financial institutions: A job that organizations like Islamic Ideology Council, AAOIFI, and State Bank of Pakistan are supposed to do but are failing badly at.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DinarWakala/dinarwakala.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. **Practicl Demonstration**: To answer all those who think that an Islamic Financial System cannot work except on the lines modern Islamic Banking has taken, this project will demonstrate that in today's fast paced economy, it is still possible to follow the Halal way, and establish institutions that are practical, and profitable, without compromising on Shariah at every step of the way like Islamic Banks.
 
-### Support or Contact
+3. **Relief to Common Man**: Irrespective of tall claims of eventual economic benefits of an Islamic system, the ground reality for the common man is that excessive devaluation is eroding his life savings by the minute. An immediate goal of this project is to finally enable the common man to benefit from the Islamic principles of sound money and participate in an alternative currency regime that acts as a hedge against inflation.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. **Foundation for bigger changes**: Allow the foundation and this project to become a platform for people to congregate on and exert political influence for lasting changes in the country's legal and financial system. With the "bank account" being a stronger instrument of public franchise than the ballot, if enough likeminded people start subscribing to the financial services offered by this project, it can gradually grow into a behemoth of morally-upright corporate power which establishes itself as the de facto voice to be reckoned with in terms of weight in financial decision making, and steering the country's direction towards a more just and true Islamic economic foundation.
+
+
+### 6. How can you participate
+
+Below are ways in which you can participate in this project. For either of them, currently the best way is to send a message to info@dinarwakala.com or leave me a message on facebook: https://www.facebook.com/asifshiraz or whats app +923155199790.
+
+__6.1 Serve in the core team of the Master Wakala:__ We need trust-worthy people to operate the master Wakala, and oversee its operations.
+
+__6.2 Donate Money:__ We will need money at every step of the way. This will be used in a completely transparent manner, with full reporting available of where the funds went. However, please note that while we will use the money in a transparent and non-profit cause, we ourselves are not yet a registered non-profit foundation.
+
+__6.3 Buy Gold Dinars and Silver Dirhams:__ This is a win-win for everybody. Your money gets converted to Gold and Silver Dirhams, (albeit at a lower rate than market). However, you do not loose your money, and still get the benefit of advancing a good cause by promoting this project, and expanding its subscriber base.
+
+__6.4 Operate a full Wakala:__ You can open a Wakala and become a seller of Gold Dinars and Silver Dirhams, and start providing safekeeping services of the money (e.g. by purchasing a locker from a local Bank and saving your family and friend's accounts there).
+
+__6.5 Operate a Sale-only Wakala:__ You can also just become a reseller of Gold Dinars and Silver Dirhams, without opening a full fledged Wakala.
+
+__6.6 Just spread the word:__ Just let your friends and family know about this project, and if not you, maybe one of them will be ready and willing to participate in it.
+
+__6.7 Contribute Knowledge:__ If you possess Legal, Financial and Religious knowledge that can be helpful in this project, you can open a github account and start contributing to the documents and corpus on this website.
+
+__6.8 Contribute Software Skills:__ If you possess software development expertise, you can contribute in developing the block chain software related components of this project.
+
+
+## 7. Footnotes
+
+¹ We prefer to use the phrase interest-avoiding instead of interest-free. The later was a poor translation choice in earlier literature, which instills the notion that loans in Islam ought to be interest-free, which is not the case. Islam recognizes the time-value of money, and proposes investment-based profit and loss sharing strategies for the business domain. It is true that interest-free loans, Qard-e-Hasan, are mentioned and extolled in Islamic literature, but that is in context of a private act of charity and piety, and not as a business requirement for a financial intermediary.
+
+² [Dinar Wakala](http://www.dinarwakala.com) is a private company registered in the great state of Texas. They are the producers of the very first Islamic Gold Dinar in the American Continent, and other notable coins including the silver 10 Dirham honoring the famous civil rights leader, Malcolm X. Dinar Wakala aspires to become one of the operating Wakalas in the proposed project, along with other independent, for-profit institutions that can together constitute the Wakala Network, as explained on this page. Mr. Asif Shiraz's instrumental role in this this project and the Master Wakala presents a conflict of interest that is currently tolerated, until more responsible and capable people are availabe to fully shoulder the work of the Master Wakala. Moreover, all contributions to the working model of the Master Wakala are documented on this page and in the public domain, hence any attempt to profiteer will be immediately apparent.
